@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Jensine (@jpage-cn)
+- 👀 I’m interested in video games, coding, and lot's of other things
+- 🌱 I’m currently learning React and re-reading some of my favorite Kyle Simpson books about JavaScript
